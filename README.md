@@ -21,7 +21,7 @@ Les actions possibles sont :
 * ```rrb``` : reverse rotate **b** - Décale tous les éléments de la pile **b** vers le bas de un. Le dernier élément devient le premier.
 * ```rrr``` : Fait ```rra``` et ```rrb``` en même temps.
 
-## Usage
+## 🛠️ Usage
 
 Utilisez la commande ```make``` pour compiler puis exécutez avec : 
 ```
