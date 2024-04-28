@@ -2,7 +2,7 @@
 
 42_push_swap est un projet de l'école 42 dans lequel nous devons trier une liste donnée de nombres aléatoires avec un ensemble limité d'instruction, en utilisant le plus petit nombre d'action possible.
 
-## Règles
+## 📋 Règles
 
 Nous avons 2 stacks nommées **a** et **b**.
 Au début **a** contient un nombre aléatoire de nombres positifs ou négatifs sans aucun doublon et **b** est vide.
@@ -27,11 +27,11 @@ Utilisez la commande ```make``` pour compiler puis exécutez avec :
 ```
 ./push_swap <list of numbers>
 ```
-Exemple:
+Exemple :
 ```
 ./push_swap 2 1 3 6 5 8
 ```
-ou:
+ou :
 ```
 ./push_swap "2 1 3 6 5 8"
 ```
