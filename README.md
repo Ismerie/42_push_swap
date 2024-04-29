@@ -19,7 +19,7 @@ Les actions possibles sont :
 | `pb`  | push **b**                                  | Prend le premier élément en haut de **a** et le place en haut de **b** . Ne fait rien si **a** est vide.     |
 | `ra`  | rotate **a**                                | Décale tous les éléments de la pile **a** vers le haut de un. Le premier élément devient le dernier.         |
 | `rb`  | rotate **b**                                | Décale tous les éléments de la pile **b** vers le haut de un. Le premier élément devient le dernier.         |
-| `rr`  | rotate **a** + **rotate **b**               | Fait ```ra``` et ```rb``` en même temps                                                                      |
+| `rr`  | rotate **a** + rotate **b**               | Fait ```ra``` et ```rb``` en même temps                                                                        |
 | `rra` | reverse rotate **a**                        | Décale tous les éléments de la pile **a** vers le bas de un. Le dernier élément devient le premier           |
 | `rrb` | reverse rotate **b**                        | Décale tous les éléments de la pile **b** vers le bas de un. Le dernier élément devient le premier           |
 | `rrr` | reverse rotate **a** + reverse rotate **b** | Fait ```rra``` et ```rrb``` en même temps                                                                    |
